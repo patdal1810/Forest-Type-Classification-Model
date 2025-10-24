@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+env/
+
+# Data & models (don’t bloat the repo)
+cover_data.csv
+data/
+saved_model/
+*.keras
+*.h5
+
+# IDE
+.vscode/
+.DS_Store
