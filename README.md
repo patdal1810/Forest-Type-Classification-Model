@@ -133,7 +133,7 @@ forest-cover-type-tf/
 
 ## Author
 
-**Patrick Dalington**  
+**Olumba C. Patrick**  
 *Software & Machine Learning Engineer*  
 - Focus: Deep Learning, Predictive Modeling, and Intelligent Systems  
 - Passionate about continuous learning and applied AI  
@@ -157,4 +157,4 @@ This project is open-source under the **MIT License**. Feel free to fork and exp
 ---
 
 > “Knowledge compounds when applied.”  
-> The more we learn, the better we build. 🌲
+> The more we learn, the better we build. 
